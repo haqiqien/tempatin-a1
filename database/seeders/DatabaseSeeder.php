@@ -97,6 +97,7 @@ class DatabaseSeeder extends Seeder
             AppSettingSeeder::class,
             FacilitySeeder::class,
             PlaceSeeder::class,
+            ReviewSeeder::class,
         ]);
     }
 }
