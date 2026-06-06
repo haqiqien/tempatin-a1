@@ -23,7 +23,7 @@ class FavoriteToggle extends Component
     public function toggle(): void
     {
         if (! auth()->check()) {
-            $this->dispatch('show-login-prompt');
+            $this->redirect(route('login'), navigate: true);
 
             return;
         }

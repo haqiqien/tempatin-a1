@@ -41,7 +41,7 @@ class RegisteredUserController extends Controller
         if ($role === 'partner') {
             Partner::create([
                 'user_id' => $user->user_id,
-                'business_name' => null,
+                'business_name' => $user->full_name,
                 'contact_name' => $user->full_name,
                 'contact_phone' => $user->phone,
                 'status' => 'active',
