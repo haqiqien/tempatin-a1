@@ -16,6 +16,74 @@ Temukan kafe, coworking space, dan perpustakaan terbaik di sekitarmu — dilengk
 
 ---
 
+## UI/UX Preview
+
+### Tampilan 01
+
+![UI/UX Preview 01](docs/ui-ux/ui-ux-01.png)
+
+### Tampilan 02
+
+![UI/UX Preview 02](docs/ui-ux/ui-ux-02.png)
+
+### Tampilan 03
+
+![UI/UX Preview 03](docs/ui-ux/ui-ux-03.png)
+
+### Tampilan 04
+
+![UI/UX Preview 04](docs/ui-ux/ui-ux-04.png)
+
+### Tampilan 05
+
+![UI/UX Preview 05](docs/ui-ux/ui-ux-05.png)
+
+### Tampilan 06
+
+![UI/UX Preview 06](docs/ui-ux/ui-ux-06.png)
+
+### Tampilan 07
+
+![UI/UX Preview 07](docs/ui-ux/ui-ux-07.png)
+
+### Tampilan 08
+
+![UI/UX Preview 08](docs/ui-ux/ui-ux-08.png)
+
+### Tampilan 09
+
+![UI/UX Preview 09](docs/ui-ux/ui-ux-09.png)
+
+### Tampilan 10
+
+![UI/UX Preview 10](docs/ui-ux/ui-ux-10.png)
+
+### Tampilan 11
+
+![UI/UX Preview 11](docs/ui-ux/ui-ux-11.png)
+
+### Tampilan 12
+
+![UI/UX Preview 12](docs/ui-ux/ui-ux-12.png)
+
+### Tampilan 13
+
+![UI/UX Preview 13](docs/ui-ux/ui-ux-13.png)
+
+### Tampilan 14
+
+![UI/UX Preview 14](docs/ui-ux/ui-ux-14.png)
+
+### Tampilan 15
+
+![UI/UX Preview 15](docs/ui-ux/ui-ux-15.png)
+
+### Tampilan 16
+
+![UI/UX Preview 16](docs/ui-ux/ui-ux-16.png)
+
+---
+
 ## ✨ Fitur
 
 | Fitur | Keterangan |
